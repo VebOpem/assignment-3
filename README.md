@@ -1,8 +1,8 @@
-oblig 3
-I where able to get most tasks done and i have somewhat of a working result, however 
+
+I were able to get most tasks done and i have somewhat of a working result, however 
 i where unable to get the register.js to fire after the validation. No matter what i tried i always got the result that "addEventListener is not a function" 
-or a "button is null" if i had the functions chained after eachorther. I tried various onload methods not none semed to fix the issue.
-So now one can add empty classes unfortunatley because bot functions trigger at the same time.
+or a "button is null" if i had the functions chained after eachother. I tried various onload methods so that they would load after the HTML, but not none semed to fix the issue.
+So now one can add empty classes unfortunatley because both functions trigger at the same time.
 
 It was a bit hard to figure out what the tasks meant exactly, but i think my js class is correct, it is working as far as i know. 
 
